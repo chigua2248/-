@@ -9,3 +9,6 @@
 * `X` 重置
 * `Esc` 退出按键
 
+外链
+=
+* 蓝奏云 https://wwja.lanzoue.com/is0W12bv39bi
