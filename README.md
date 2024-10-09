@@ -1,8 +1,12 @@
 界面
 =
 * 配置
+
+  
   ![image](https://github.com/user-attachments/assets/37c5d0b1-e518-44a3-bb95-84ede8222282)
 * 计时
+
+  
   ![image](https://github.com/user-attachments/assets/e27f7baf-0f8e-4b6b-b039-75f39e335078)
 
 功能
